@@ -20,4 +20,9 @@ def mul_10(num : int) -> int:
 var_func = mul_10
 print(var_func)
 
-lambda_mul_10 = lambda x:
+
+def commit(x):
+    return str(x) + "잘 커밋되었다"
+
+gogo = commit("7월 18일의 코드는 ")
+print(gogo)
