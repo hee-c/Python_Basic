@@ -26,3 +26,7 @@ def commit(x):
 
 gogo = commit("7월 18일의 코드는 ")
 print(gogo)
+
+
+def forgot(x):
+    return "Stupid"
